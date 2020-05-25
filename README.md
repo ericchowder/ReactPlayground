@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Package Managers:
+- [NPM](https://nodejs.org/en/) from NodeJS
+
+Tech Stack includes:
+- [React](https://github.com/facebook/create-react-app)
+- [React Boostrap](https://react-bootstrap.github.io/getting-started/introduction)
+
 ## Available Scripts
 
 In the project directory, you can run:
