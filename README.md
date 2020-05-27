@@ -1,3 +1,7 @@
+## Project Information
+
+This project was created in order to allow me to learn the React library from group up without affecting my main website. This includes elements such as router, bootstrap, and stylesheets. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Package Managers:
@@ -12,7 +16,7 @@ Tech Stack includes:
 
 
 
-Original bootstrapped README content:
+Original bootstrapped README content below:
 ## Available Scripts
 
 In the project directory, you can run:
