@@ -10,6 +10,8 @@ Tech Stack includes:
 - [React Boostrap](https://react-bootstrap.github.io/getting-started/introduction) (also installs original Bootstrap)
 - [Bootstrap Stylesheets](https://react-bootstrap.github.io/getting-started/introduction#stylesheets) (react-bootstrap only includes JS parts to replace jquery, does not include the original bootstrap stylesheets)
 
+
+
 Original bootstrapped README content:
 ## Available Scripts
 
