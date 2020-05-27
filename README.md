@@ -2,10 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Package Managers:
 - [NPM](https://nodejs.org/en/) from NodeJS
+- [Yarn](https://yarnpkg.com/getting-started/install) by Facebook, improved functionality and security over NPM
 
 Tech Stack includes:
 - [React](https://github.com/facebook/create-react-app)
-- [React Boostrap](https://react-bootstrap.github.io/getting-started/introduction)
+- [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
+- [React Boostrap](https://react-bootstrap.github.io/getting-started/introduction) (also installs original Bootstrap)
+- [Bootstrap Stylesheets](https://react-bootstrap.github.io/getting-started/introduction#stylesheets) (react-bootstrap only includes JS parts to replace jquery, does not include the original bootstrap stylesheets)
 
 ## Available Scripts
 
